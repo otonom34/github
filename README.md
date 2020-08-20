@@ -55,7 +55,7 @@ Bu komut ile yerelde yaptığınız değişikliklerin hangi GitHub hesabı ile i
 
 Bir önceki derste bilgisayarımıza Git Bash kurmuştuk. Şimdi Git Bash komut satırını kullanarak GitHub projeleri nasıl klonlanır, değişiklikler nasıl kaydedilir, gibi sorulara cevap niteliğindeki bazı komutlara bakalım.
 
-### `git status`
+### `git status`"git statusu denemek istiyorum"
 
 Bu komut, repository'nin mevcut durumunu gösterir. Eğer projede değişiklik yapılmış ancak işlenmemiş (bkz: commit) veya işlenmiş değişiklikler görüntülenebilir.
 
